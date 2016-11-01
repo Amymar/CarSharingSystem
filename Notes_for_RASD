@@ -1,0 +1,31 @@
+1) registration will done by the phone number
+2) the user choose the certain distance (radius) of the available cars
+3)
+4) if the user cancels the reservations before 1 hour the user has to be charged for 50 cents.
+5) the charging will start after the car unlocks
+6) 
+7) system should continue charging until she parked and get off.
+the driver may want to drop by a supermarket and do some shopping so after this period should the driver reserve the car again or
+there should be an option of "end the trip" or "wait me" (charging continues)
+????????? ASK TO THE PROFESSOR ???????????
+8) you can not log out during the trip but you can close it.
+
+a) the driver (user) can have a discount if the other two passengers are also using the application.
+their gps or bluetooth has to be checked if they are with the driver at the start and also at the end of the trip.
+or we can use a weight sensor or position sensor. ?????????? ASK TO THE PROFESSOR ???????????
+b) after system locks the car at the end of the drive, system should check the battery
+c) Special parking areas must be defined in the system.
+If trip is ended in recharge area that is in a safe area the user may recharge the car,
+if he does, the systems detects the recharging and apply a discount.
+d)
+e) What property should a station have? (Both plugs and parking areas) Have to check the availabilty of the plugs?
+????????? ASK TO THE PROFESSOR ???????????
+
+*** The payments should be made after 30 mins of the end of the trip. For security. ***
+*** The user can able to see the estimated distance that car can make. ***
+*** What if no one recharge it, who will recharge it? Cars send a message when their battery is about to die(under 20 percent)
+After that the employees take it to the recharge area and plug it.
+Do we have to write or add a use case for this. ????????? ASK TO THE PROFESSOR ???????????
+
+Upper Management - Employee - User (Are we going to consider only the User part)
+Should we write a use case for plug status of the station? ????????? ASK TO THE PROFESSOR ???????????
