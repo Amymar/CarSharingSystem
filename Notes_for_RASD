@@ -29,3 +29,5 @@ Do we have to write or add a use case for this. ????????? ASK TO THE PROFESSOR ?
 
 Upper Management - Employee - User (Are we going to consider only the User part)
 Should we write a use case for plug status of the station? ????????? ASK TO THE PROFESSOR ???????????
+
+Payment option is credit card or debit(block user until the money arrives). 
